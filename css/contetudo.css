@@ -10,10 +10,11 @@ section {
   margin: 0 auto;
 }
 .conteudo-titulo h1 {
-  font-size: 70px;
+  font-size: 90px;
   margin-bottom: 30px;
-  color: rgb(26, 7, 94);
+  color: rgb(7, 7, 7);
   animation: titulo 2s ease-in-out;
+ 
 }
 @keyframes titulo {
   0% {

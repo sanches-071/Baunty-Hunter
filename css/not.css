@@ -1,0 +1,23 @@
+@media (max-width: 1730px) {
+  .titulo-contet {
+    max-width: 1200px;
+  }
+  .conteudo-contet {
+    max-width: 1400px;
+  }
+  .conteudo-titulo h1 {
+    font-size: 60px;
+    margin-bottom: 30px;
+    color: rgb(7, 7, 7);
+    animation: titulo 2s ease-in-out;
+  }
+
+  .conteudo-titulo p {
+    font-size: 20px;
+    color: rgb(14, 13, 13);
+  }
+  .conteudo-video {
+    width: 580px;
+    height: 370px;
+  }
+}
